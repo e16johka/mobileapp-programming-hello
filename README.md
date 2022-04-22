@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+**Till denna uppgift har jag ändrat text view "Hello world" i "content_main.xml" till "Ny text"**
     
     function errorCallback(error) 
 {
