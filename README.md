@@ -1,7 +1,7 @@
 
 # Rapport
 
-**Till denna uppgift har jag ändrat text view "Hello world" i "content_main.xml" till "Ny text"**
+**Till denna uppgift har jag skapat ett konto på github, forkat/klonat "hello" app till min repo och sedan till AS, ändrat text view "Hello world" i "content_main.xml" till "Ny text"**
     
     function errorCallback(error) 
 {

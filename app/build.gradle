@@ -40,6 +40,8 @@ task archive(type: Zip) {
         include '*.zip'
     }
 
+    
+
     def projectDirFile = new File(projectDir)
     from projectDirFile
     destinationDirectory = projectDirFile
